@@ -7,14 +7,7 @@ This part of the repo provides worksheets and support videos to guide you throug
 
 ## Level 2 - Python Coding
 
-#### Task a - Algorithmic thinking
-One of the hardest, but most important parts of programming is algorithmic thinking. Most courses gloss over this, but we want to install a problem solving mindset in you. This is not something that comes over night, but with practice. Doing <a href="https://leetcode.com/">Leetcode</a> questions, or other problem solving activities is the best way to keepthis skill up.
-
-[![Algorithmic thinking](https://img.youtube.com/vi/u-fkr8pa-p0/0.jpg)](https://www.youtube.com/watch?v=u-fkr8pa-p0)
-
-<a href="https://github.com/SussexPAL/PythonCrashCourse/blob/main/Worksheets/day_1_algorithmic_thinking.ipynb">Click here to view worksheet</a>
-
-#### Task b - Maths through programming
+#### Task a - Maths through programming
 Programming and maths are intertwined. Look at how we can do basic operations with Python
 
 [![maths](https://img.youtube.com/vi/GTaE5NSzItw/0.jpg)](https://www.youtube.com/watch?v=GTaE5NSzItw)
@@ -25,7 +18,7 @@ Programming and maths are intertwined. Look at how we can do basic operations wi
 
 <a href="https://github.com/SussexPAL/PythonCrashCourse/blob/main/Worksheets/day_1_maths_through_programming.ipynb">Click here to view worksheet</a>
 
-#### Task c - Data types
+#### Task b - Data types
 Understanding your data is key to making a program that uses it. This worksheet teaches you how to make different variables for different data, and how this is used.
 
 * recapping bools vs numbers
@@ -42,14 +35,14 @@ Understanding your data is key to making a program that uses it. This worksheet 
 
 <a href="https://github.com/SussexPAL/PythonCrashCourse/blob/main/Worksheets/day_1_data_types.ipynb">Click here to view worksheet</a>
 
-#### Task d - statements/expressions/logic
+#### Task c - statements/expressions/logic
 Computers use logic, 1 for on or 0 for off. Binary, at the simplest level, is a computers language. This still holds true in coding. We have True (1) and False (0) when making choices. 
 
 [![Expressions](https://img.youtube.com/vi/leysSDiLLSs/0.jpg)](https://www.youtube.com/watch?v=leysSDiLLSs)
 
 <a href="https://github.com/SussexPAL/PythonCrashCourse/blob/main/Worksheets/day_2_logic_expressions.ipynb">Click here to view worksheet</a>
 
-#### Task e - Flow of control
+#### Task d - Flow of control
 
 * introducing scope
 * loop/iterator variables
@@ -62,7 +55,7 @@ Computers use logic, 1 for on or 0 for off. Binary, at the simplest level, is a 
 
 <a href="https://github.com/SussexPAL/PythonCrashCourse/blob/main/Worksheets/day_2_flow_of_control.ipynb">Click here to view worksheet</a>
 
-#### Task f - Functions
+#### Task e - Functions
 What if we want to execute the same bit of code multiple times throughout different parts of our program. Copying and pasting it will look messy, instead we can write it once as a function and rcall it whenever we need it.
 * simple functions
 * parameters
@@ -75,7 +68,7 @@ What if we want to execute the same bit of code multiple times throughout differ
 
 <a href="https://github.com/SussexPAL/PythonCrashCourse/blob/main/Worksheets/day_2_functions.ipynb">Click here to view worksheet</a>
 
-#### Task g - Understanding Errors & The Call Stack
+#### Task f - Understanding Errors & The Call Stack
 What does an error actually mean? The way that we can understand when our code breaks is understanding the error itself!
 * syntax error
 * overflow/timeout error

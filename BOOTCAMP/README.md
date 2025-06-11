@@ -1,6 +1,6 @@
 # Python BOOTCAMP
 
-This part of the repo provides worksheets and support videos to guide you through the basics in preperation for the computational neurosciene course. Much of this is taken from the <a href="https://github.com/SussexPAL/PythonCrashCourse">University of Sussex PAL resouces</a>. See <a href="https://github.com/SussexPAL/PythonCrashCourse">teh github</a> for more Python resources if you want to go further... We have taken the worksheets that are most related to this course's content. 
+This part of the repo provides worksheets and support videos to guide you through the basics in preperation for the computational neurosciene course. Much of this is taken from the <a href="https://github.com/SussexPAL/PythonCrashCourse">University of Sussex PAL resouces</a>. See <a href="https://github.com/SussexPAL/PythonCrashCourse">the github</a> for more Python resources if you want to go further... We have taken the worksheets that are most related to this course's content. 
 
 ## Foundational skils (Setup)
 

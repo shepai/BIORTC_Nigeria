@@ -2,6 +2,14 @@
 
 This part of the repo provides worksheets and support videos to guide you through the basics in preperation for the computational neurosciene course. Much of this is taken from the <a href="https://github.com/SussexPAL/PythonCrashCourse">University of Sussex PAL resouces</a>. See <a href="https://github.com/SussexPAL/PythonCrashCourse">teh github</a> for more Python resources if you want to go further... We have taken the worksheets that are most related to this course's content. 
 
+## Foundational skils (Setup)
+
+ To run the code we have taken a snippet from a <a href="https://github.com/wimmerlab/MBC_data_analysis/tree/main">tutorial on Python for neuroscience)</a>. 
+ There are three different options to run code: in the first one code will be run locally on your computer, while the second and third option use cloud computing (so no installation of any software on your computer):
+- If you will be using your own laptop at all times, you may want to install Python locally. The best option is to install the [Anaconda package](https://www.anaconda.com/products/distribution), which comes with everything we need for the class.
+- The **preferred option** for running Python codes in the cloud is using Google Colab, which is a free service. Just click on the "Google Colab" icon next to an assignment to open it in Google Colab (you can also go to the [Google Colab homepage](https://colab.research.google.com/) and import a notebook from your computer or with an url.
+- Alternatively, you can run Python codes in the cloud using Anaconda in [myapps.upf.edu](https://myapps.upf.edu/). This might be faster than on a slow local computer as it runs on UPF servers. You get a detailed explanation of this service [here](https://guiesbibtic.upf.edu/myapps/inici). When you access MyApps you will be able to upload and download files from your MyCloudFiles folder. Then, when you open a Jupyter Notebook from within a session of Anaconda in MyApps you will be working on that MyCloudFiles folder, so you can work and keep your code organized there. You will have everything in the cloud and accessible from any computer anywhere.
+
 ## Level 1 - Algorithms
 
 

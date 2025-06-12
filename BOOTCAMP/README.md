@@ -1,15 +1,36 @@
 # Python BOOTCAMP
 
-This part of the repo provides worksheets and support videos to guide you through the basics in preperation for the computational neurosciene course. Much of this is taken from the <a href="https://github.com/SussexPAL/PythonCrashCourse">University of Sussex PAL resouces</a>. See <a href="https://github.com/SussexPAL/PythonCrashCourse">the github</a> for more Python resources if you want to go further... We have taken the worksheets that are most related to this course's content. 
+This part of the repository provides worksheets and support videos to guide you through the basics in preperation for the computational neurosciene course. Much of this is taken from the <a href="https://github.com/SussexPAL/PythonCrashCourse">University of Sussex PAL resouces</a>. See <a href="https://github.com/SussexPAL/PythonCrashCourse">the github</a> for more Python resources if you want to go further... We have taken the worksheets that are most related to this course's content. 
 
-## Foundational skils (Setup)
+## Setup
 
- To run the code we have taken a snippet from a <a href="https://github.com/wimmerlab/MBC_data_analysis/tree/main">tutorial on Python for neuroscience)</a>. 
- There are two different options to run code: in the first one code will be run locally on your computer, while the second option uses cloud computing (so no installation of any software on your computer):
-- If you will be using your own laptop at all times, you may want to install Python locally. The best option is to install the [Anaconda package](https://www.anaconda.com/products/distribution), which comes with everything we need for the class.
-- The **preferred option** for running Python codes in the cloud is using Google Colab, which is a free service. Just click on the "Google Colab" icon next to an assignment to open it in Google Colab (you can also go to the [Google Colab homepage](https://colab.research.google.com/) and import a notebook from your computer or with an url.
+ There are different options to run code: _locally_ or using _cloud computing_. You can use different things at different times, depending on the purpose of the code, or how good the internet connection is. 
+
+- To run things _locally_ on your computer, you can start by installing:
+  -  the [Anaconda package](https://www.anaconda.com/products/distribution), which comes with everything we need for the class;
+  -   [Python](https://www.python.org/downloads/); 
+  -   an IDE (Integrated Development Environment), which is where you will write your code. We recommend [VSCode](https://code.visualstudio.com/Download).
+  
+ 
+- The easiest option for running Python codes is in the _cloud_, using Google Colab, which is a free service. Just click on the "Google Colab" icon next to an assignment to open it in Google Colab (you can also go to the [Google Colab homepage](https://colab.research.google.com/) and import a notebook from your computer or with an url. 
+
 
 ## Level 1 - Algorithms
+The word _algotithm_ might seem a bit scary if you are new to coding, but in reality it's just a set of instructions. In this first part of the bootcamp we will work on building some intuition of how Python and algorithms work. 
+
+**Karel the Robot** is a simple virtual robot created by Richard E. Pattis in 1981, designed to teach fundamental programming concepts.  
+
+- **World**  
+  A 2D grid of “streets” (rows) and “avenues” (columns), with optional walls and beepers (objects) placed at grid intersections.  
+- **Commands**  
+  - `move()` – advance one cell forward  
+  - `turn_left()` – rotate 90° counter-clockwise  
+  - `pick_beeper()` / `put_beeper()` – interact with beepers  
+
+
+> In this part you will learn how write small programs that navigate Karel through mazes, manipulate beepers, and solve well-defined puzzles.  
+ https://compedu.stanford.edu/karel-reader/docs/python/en/chapter2.html
+
 
 
 ## Level 2 - Python Coding
@@ -101,3 +122,6 @@ Being able to import and preprocess various types of data forms the foundation f
 #### Task c - Application of this to real-world datasets
 - tasks with different types of actually relevent datasets to the projects(look into spreadsheet)
 - load in these datasets, gather images, simple data visualisation?
+
+## Next steps
+ If you feel comfortable with Python already and would like to do some extra reading on data analysis for neuroscience in preparation for the course, take a look at the interesting stuff on this page <a href="https://github.com/wimmerlab/MBC_data_analysis/tree/main">tutorial on Python for neuroscience</a>

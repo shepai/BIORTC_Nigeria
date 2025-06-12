@@ -1,3 +1,5 @@
 # Materials for the workshops
 
-[Attractor network workshop](Attractors/attractors.ipynb)
+Available materials for workshops following lectures:
+
+1. [Attractor network workshop](Attractors/attractors.ipynb)

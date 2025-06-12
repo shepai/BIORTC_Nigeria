@@ -89,15 +89,19 @@ What does an error actually mean? The way that we can understand when our code b
 
 ## Level 3 - Data Science
 
-Being able to import and preprocess various types of data forms the foundation for all the modeling and analysis we will do later.
+Being able to import and preprocess various types of data forms the foundation for all the modeling and analysis we will do later. In this last part of the Bootcamp, we will learn how to handle data in python code with _numpy_, inspect and load it with _pandas_, and visualise it with _matplotlib_. This will give you all the nessesary tools for working with your own datasets in your projects.
 
 #### Task a - Handling of your data with Numpy
-- numpy, arrays, accessing data
+First, we will learn how to use the library _numpy_ to handle and understand scientific data in python.
 
-#### Task b - Unsing Pandas to load and inspect datasets
-- pandas - dataframes to load in different types of data(csv,json,...)
-- inspecing this data, simple statistics, what does that mean
+<a href="BOOTCAMP/Level 3 - Data Science/3a_numpy.ipynb">Click here to view worksheet</a>
 
-#### Task c - Application of this to real-world datasets
-- tasks with different types of actually relevent datasets to the projects(look into spreadsheet)
-- load in these datasets, gather images, simple data visualisation?
+#### Task b - Using Pandas to load and inspect datasets
+Next, we will learn how to load in different types of data, inspect it to understand the basic needed preprocessing steps, and then do the preprocessing. For this, we will use the _pandas_ library.
+
+<a href="BOOTCAMP/Level 3 - Data Science/3b_pandas.ipynb">Click here to view worksheet</a>
+
+#### Task c - Using Matplotlib ot visualise your data
+Last, we learn how to visualise that loaded data with _Matplotlib_, another very useful important library:
+
+<a href="BOOTCAMP/Level 3 - Data Science/3c_datasets.ipynb">Click here to view worksheet</a>

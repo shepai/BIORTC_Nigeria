@@ -1,0 +1,31 @@
+Id,Timestamp,What is your age (years)?,What is your favourite TV series?,Who is your favourite artist/band?,Are you a robot?
+17,01/04/2021 09:07:03,45,Sherlock,Adele,False
+33,01/26/2020 01:10:49,40,Sherlock,Beyonce,False
+4,04/18/2019 17:10:45,36,One Piece,Beyonce,True
+24,03/23/2020 19:32:31,75 ,One Piece,John Denver,True
+48,09/04/2020 03:42:07,19 years old,Seinfeld,Linkin Park,False
+18,02/02/2019 04:58:58,80,Breaking Bad,Michael Jackson,False
+15,03/31/2020 17:42:54,60,Sherlock,Ed Sheeran,False
+60,07/11/2021 10:31:28,37 ,Planet Earth,Ed Sheeran,False
+29,05/23/2021 09:24:15,83 years,Breaking Bad,Ed Sheeran,False
+12,06/03/2019 12:47:24,64,Planet Earth,Michael Jackson,False
+23,05/20/2019 03:05:20,70,,Linkin Park,False
+38,02/07/2021 14:58:04,74 years old,Planet Earth,Adele,False
+70,08/31/2019 14:18:15,85,Sherlock,The Beatles,False
+13,08/28/2019 00:32:12,81,Seinfeld,Adele,False
+72,10/26/2018 21:46:31,82,One Piece,Beyonce,False
+64,06/10/2019 04:29:07,69,Planet Earth,Prince,False
+61,02/20/2019 03:31:59,89,,Michael Jackson,True
+8,07/01/2020 12:28:11,40 ,,Ed Sheeran,False
+14,02/11/2021 11:25:47,71 years old,Sherlock,Michael Jackson,False
+1,02/24/2019 11:34:24,47,Planet Earth,Linkin Park,False
+49,10/03/2018 06:38:09,27,One Piece,Adele,False
+11,02/09/2020 03:24:19,52,Game of Thrones,,False
+58,03/14/2021 12:24:12,35,Planet Earth,John Denver,True
+55,06/12/2020 07:47:00,41 ,Breaking Bad,The Beatles,False
+57,01/12/2019 17:45:18,78,,The Beatles,False
+20,04/14/2020 13:23:11,77 y/o,Sherlock,Adele,False
+26,08/25/2019 08:04:41,59,Breaking Bad,Ed Sheeran,False
+43,02/27/2020 23:29:07,87,Breaking Bad,Ed Sheeran,False
+9,08/29/2021 19:57:56,68,Seinfeld,Michael Jackson,False
+34,11/01/2020 05:11:05,56 years,One Piece,Ed Sheeran,False

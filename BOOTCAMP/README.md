@@ -118,17 +118,17 @@ Being able to import and preprocess various types of data forms the foundation f
 #### Task a - Handling of your data with Numpy
 First, we will learn how to use the library _numpy_ to handle and understand scientific data in python.
 
-<a href="BOOTCAMP/Level 3 - Data Science/3a_numpy.ipynb">Click here to view worksheet</a>
+<a href="Level 3 - Data Science/3a_numpy.ipynb">Click here to view worksheet</a>
 
 #### Task b - Using Pandas to load and inspect datasets
 Next, we will learn how to load in different types of data, inspect it to understand the basic needed preprocessing steps, and then do the preprocessing. For this, we will use the _pandas_ library.
 
-<a href="BOOTCAMP/Level 3 - Data Science/3b_pandas.ipynb">Click here to view worksheet</a>
+<a href="evel 3 - Data Science/3b_pandas.ipynb">Click here to view worksheet</a>
 
 #### Task c - Using Matplotlib ot visualise your data
 Last, we learn how to visualise that loaded data with _Matplotlib_, another very useful important library:
 
-<a href="BOOTCAMP/Level 3 - Data Science/3c_datasets.ipynb">Click here to view worksheet</a>
+<a href="Level 3 - Data Science/3c_datasets.ipynb">Click here to view worksheet</a>
 #### Task c - Application of this to real-world datasets
 - tasks with different types of actually relevent datasets to the projects(look into spreadsheet)
 - load in these datasets, gather images, simple data visualisation?

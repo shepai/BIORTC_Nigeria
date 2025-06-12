@@ -9,9 +9,8 @@ This part of the repository provides worksheets and support videos to guide you 
 - To run things _locally_ on your computer, you can start by installing:
   -  the [Anaconda package](https://www.anaconda.com/products/distribution), which comes with everything we need for the class;
   -   [Python](https://www.python.org/downloads/); 
-  -   an IDE (Integrated Development Environment), which is where you will write your code. We recommend [VSCode](https://code.visualstudio.com/Download).
+  -   an IDE (Integrated Development Environment), which is where you will write your code. We recommend [VSCode](https://code.visualstudio.com/Download).  
   
- 
 - The easiest option for running Python codes is in the _cloud_, using Google Colab, which is a free service. Just click on the "Google Colab" icon next to an assignment to open it in Google Colab (you can also go to the [Google Colab homepage](https://colab.research.google.com/) and import a notebook from your computer or with an url. 
 
 
@@ -20,16 +19,20 @@ The word _algotithm_ might seem a bit scary if you are new to coding, but in rea
 
 **Karel the Robot** is a simple virtual robot created by Richard E. Pattis in 1981, designed to teach fundamental programming concepts.  
 
+![Karel World](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcompedu.stanford.edu%2Fkarel-reader%2Fdocs%2Fimages%2Fch1%2Fworld.png&f=1&nofb=1&ipt=a96c726da6bc255557da4be0c6e10b348dcc8c5ad52a2222129f9ddd1f292365 "Karel World")
+
 - **World**  
-  A 2D grid of “streets” (rows) and “avenues” (columns), with optional walls and beepers (objects) placed at grid intersections.  
+  A 2D grid of “streets” (rows) and “avenues” (columns), with optional walls and beepers (the diamond shaped objects) placed at grid intersections.  
 - **Commands**  
+  Karel only has 4 commands, and in the various exercises you will learn how to use them to get it to do complex things.   
+
   - `move()` – advance one cell forward  
   - `turn_left()` – rotate 90° counter-clockwise  
   - `pick_beeper()` / `put_beeper()` – interact with beepers  
 
 
-> In this part you will learn how write small programs that navigate Karel through mazes, manipulate beepers, and solve well-defined puzzles.  
- https://compedu.stanford.edu/karel-reader/docs/python/en/chapter2.html
+> In this part you will learn how write small programs that navigate Karel through mazes, manipulate beepers, and solve well-defined puzzles.  Head over to 
+[Karel reader](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html) to learn more about Karel and prepare for the first lab! :)
 
 
 

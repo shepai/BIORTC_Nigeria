@@ -32,7 +32,7 @@ The word _algotithm_ might seem a bit scary if you are new to coding, but in rea
 
 
 > In this part you will learn how write small programs that navigate Karel through mazes, manipulate beepers, and solve well-defined puzzles.  Head over to 
-[Karel reader](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html) to learn more about Karel and prepare for the first lab! :)
+[Karel reader](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html) to learn more about Karel and prepare for the first lab, and then <a href="BOOTCAMP\Level 1 - Algorithms\Lab_day1.ipynb">Click here to see the challenge</a>! :)
 
 
 

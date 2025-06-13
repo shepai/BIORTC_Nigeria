@@ -15,7 +15,7 @@ This part of the repository provides worksheets and support videos to guide you 
 
 
 ## Level 1 - Algorithms
-The word _algotithm_ might seem a bit scary if you are new to coding, but in reality it's just a set of instructions. In this first part of the bootcamp we will work on building some intuition of how Python and algorithms work. 
+The word _algorithm_ might seem a bit scary if you are new to coding, but in reality it's just a set of instructions. In this first part of the bootcamp we will work on building some intuition of how Python and algorithms work. 
 
 **Karel the Robot** is a simple virtual robot created by Richard E. Pattis in 1981, designed to teach fundamental programming concepts.  
 

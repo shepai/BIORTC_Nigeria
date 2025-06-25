@@ -1,0 +1,47 @@
+# General settings
+figure.dpi: 300
+savefig.dpi: 300
+savefig.format: svg
+savefig.transparent: True
+savefig.bbox: tight
+savefig.pad_inches: 0
+
+# Font settings
+font.family: sans-serif
+font.size: 6
+axes.labelsize: 6
+axes.titlesize: 7
+xtick.labelsize: 5
+ytick.labelsize: 5
+legend.fontsize: 5
+figure.titlesize: 8
+figure.figsize: 2.5,1.5
+
+# Line and Marker settings
+lines.linewidth: 1
+lines.markersize: 3
+
+# Axes styling
+axes.linewidth: 0.5
+axes.edgecolor: black
+xtick.major.size: 2
+ytick.major.size: 2
+xtick.major.width: 0.5
+ytick.major.width: 0.5
+xtick.direction: out
+ytick.direction: out
+
+# Spines (remove top and right for cleaner look)
+axes.spines.top: False
+axes.spines.right: False
+
+# Grid settings (optional)
+grid.linestyle: --
+grid.linewidth: 0.3
+grid.alpha: 0.3
+
+# Legend
+legend.frameon: False
+
+# Colormap for colorblind-friendly visualization (optional)
+image.cmap: viridis

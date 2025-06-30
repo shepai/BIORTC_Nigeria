@@ -2,7 +2,9 @@
 
 This part of the repository provides worksheets and support videos to guide you through the basics in preperation for the computational neurosciene course. Much of this is taken from the <a href="https://github.com/SussexPAL/PythonCrashCourse">University of Sussex PAL resouces</a>. See <a href="https://github.com/SussexPAL/PythonCrashCourse">the github</a> for more Python resources if you want to go further... We have taken the worksheets that are most related to this course's content. 
 
-## Setup
+## Before we start
+
+### Setup
 
  There are different options to run code: _locally_ or using _cloud computing_. You can use different things at different times, depending on the purpose of the code, or how good the internet connection is. 
 
@@ -13,13 +15,11 @@ This part of the repository provides worksheets and support videos to guide you 
   
 - The easiest option for running Python codes is in the _cloud_, using Google Colab, which is a free service. Just click on the "Google Colab" icon next to an assignment to open it in Google Colab (you can also go to the [Google Colab homepage](https://colab.research.google.com/) and import a notebook from your computer or with an url. 
 
-## Linear Algebra
-A basic understanding of linear algebra is not only useful, but crucial for the successful completion of this course (and a career in computational neuroscience). 
+### Essential: Linear Algebra
+A basic understanding of linear algebra is not only useful to code efficiently, but it is crucial for the successful completion of this course (and a career in computational neuroscience). 
 
-If you are already familiar with the core concepts (**vectors, matrices, linear transformations, eigenvectors and eigenvalues**), feel free to move onto the next section. Otherwise, here are some helpful resources to prepare you for the course!
+> If you are already familiar with the core concepts (**vectors, matrices, linear transformations, eigenvectors and eigenvalues**), feel free to move onto the next section. Otherwise,  [3Blue1Brown's linear algebra crash course](https://www.3blue1brown.com/topics/linear-algebra) is a really good resource to build some intuition! 
 
-- [3Blue1Brown's linear algebra]()
-  [![maths](https://img.youtube.com/vi/fNk_zzaMoSs/0.jpg)](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ## Level 1 - Algorithms
 The word _algorithm_ might seem a bit scary if you are new to coding, but in reality it's just a set of instructions. In this first part of the bootcamp we will work on building some intuition of how Python and algorithms work. 
@@ -136,5 +136,6 @@ Next, we will learn how to load in different types of data, inspect it to unders
 Last, we learn how to handle a more specifically neuroscientific dataset and visualise it with _Matplotlib_, another very useful and important library:
 
 <a href="Level 3 - Data Science/3c_datasets.ipynb">Click here to view the Matplotlib worksheet</a>
+
 ## Next steps
  If you feel comfortable with Python already and would like to do some extra reading on data analysis for neuroscience in preparation for the course, take a look at the interesting stuff on this page <a href="https://github.com/wimmerlab/MBC_data_analysis/tree/main">tutorial on Python for neuroscience</a>

@@ -12,8 +12,8 @@ import pandas as pd
 import multiprocessing as mp
 from itertools import repeat
 
-dir_monkeyA = '../data/mante/PFC data 1/'
-dir_monkeyF = '../data/mante/PFC data 2/'
+dir_monkeyA = '../data/PFC data 1/'
+dir_monkeyF = '../data/PFC data 2/'
 
 
 class RawManteUnit:
